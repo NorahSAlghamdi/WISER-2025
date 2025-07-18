@@ -10,7 +10,7 @@ As an intern, you will gain hands-on experience with bioinformatics tools, analy
 ## Outline
 | Week  | Day |  Content |  Activity  |  Notes
 | :---: | :---:  |  :---:  |  :---: |  :---:
-| 1 | 1 | [Orentation + Set up the programs]
+| 1 | 1 | Orentation + Set up the programs
 | 1 |2 | [Therotical part1](https://www.coursera.org/learn/genetics-evolution/lecture/OCKVK/what-is-evolution-g) | Quize | Module 2 & 3 (skip Guest intreview from module 2) 
 | 1 |3 |[Python](https://colab.research.google.com/drive/1CBVpgmWd6lKitfxU4F2EJWENtxNOYIWL?usp=sharing)
 | 1 | 4|[Python for Biostatistics](https://kaust.zoom.us/rec/play/7juurDBkD1Ao0Wm6UJ_N0U7c85jlqm6UH1-931AbtiIfBSLTmDRFxSbn0_ph4RJBypHHw0rTU6bms-RG.HMHweqXzeXItVb9P?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2FSpNX8c-wHaJekgwJCv6UtS87oKvVm8XOpTCo9385quOb3PZFM2bdShkTTY-C6OBw.qpXCHbCQsosytBH1)
