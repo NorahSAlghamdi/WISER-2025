@@ -11,7 +11,7 @@ As an intern, you will gain hands-on experience with bioinformatics tools, analy
 | Week  | Day |  content 
 | :---:         |     :---:      |  :---:
 | 1 | 1 | [Therotical part1](https://kaust.zoom.us/rec/play/ST4s4WqmKe1gC1X8V1Ot9-3gx3fXt7ob-7obaBi3e9P3uenOTBBqTfCvbgDR_O4mSZI49j0fV8wB8iwc.mTe9jxdDqmj1aGMD?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2F9IOIWWwDXB_qM17FXFr3Ki67KqyLw8qpkkaWa33CYmtPsV5bAiL4s7Up58-urPC7.Lh6LY-JwChtUJWem)
-| 1 |2 | [Therotical part1](https://kaust.zoom.us/rec/play/tygKzMqXWXOFFSSTBdm4YwjbETppU61WtbpY3nYZhXndEcwEq1hBnwnvkmsXf0Y8D_Y1ptbxI5rF8OXQ.hmZUOhMxF9Y0e9c-?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2FJWNcrdaPeuQ6YR-6chj5f3AWKOXlrPz1WbYvreeCTbLnNAQIC5plDpI6TDbLOgEj.oA22h9OE0S8AFzUf)
+| 1 |2 | [Therotical part1](https://www.coursera.org/learn/genetics-evolution/lecture/OCKVK/what-is-evolution-g)
 | 1 |3 |[Python](https://colab.research.google.com/drive/1CBVpgmWd6lKitfxU4F2EJWENtxNOYIWL?usp=sharing)
 | 1 | 4|[Python for Biostatistics](https://kaust.zoom.us/rec/play/7juurDBkD1Ao0Wm6UJ_N0U7c85jlqm6UH1-931AbtiIfBSLTmDRFxSbn0_ph4RJBypHHw0rTU6bms-RG.HMHweqXzeXItVb9P?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fkaust.zoom.us%2Frec%2Fshare%2FSpNX8c-wHaJekgwJCv6UtS87oKvVm8XOpTCo9385quOb3PZFM2bdShkTTY-C6OBw.qpXCHbCQsosytBH1)
 | 2 |1 |[Central of dogma](https://drive.google.com/file/d/1JT8mmurmd0GT3pbg4vy7UNxRZb5Po_-A/view?usp=sharing)
