@@ -21,7 +21,7 @@ As an intern, you will gain hands-on experience with bioinformatics tools, analy
 |  | 4 | [Alignment and GWAS]() | Lab work |  |
 | **3** | 1 | [Proteome-Amino acid level](https://www.coursera.org/learn/fundamental-skills-in-bioinformatics/home/module/4) | Quiz | Module 4 (Case study: Single cell RNA in python) |
 |  | 2 | [Transcriptomic]() |  |  |
-|  | 3 | [Transcriptomic](https://drive.google.com/file/d/1z27F1s20YBj4XhHbKxDXQa56Pevieg3J/view?usp=drive_link) |  |  |
+|  | 3 | [Transcriptomic]() |  |  |
 |  | 4 | [Covid_19 project]() | Lab work |  |
 | **4** | 1 | [Covid-19 project]() |  |  |
 |  | 2 | [Poster preparation]() | Lab work |  |
