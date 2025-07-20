@@ -12,7 +12,7 @@ As an intern, you will gain hands-on experience with bioinformatics tools, analy
 | Week | Day | Content | Activity | Notes |
 | :---: | :---: | :--- | :--- | :--- |
 | **1** | 1 | Orientation + Set up the programs |  |  |
-|  | 2 | [Theoretical part1](https://www.youtube.com/watch?v=5MQdXjRPHmQ), [2](https://www.youtube.com/watch?v=zwibgNGe4aY) | Quiz & ppt |  |
+|  | 2 | [Theoretical part1 1](https://www.youtube.com/watch?v=5MQdXjRPHmQ), [2](https://www.youtube.com/watch?v=zwibgNGe4aY),[3](https://www.youtube.com/watch?v=IePMXxQ-KWY) | Quiz & ppt |  |
 |  | 3 | [Theoretical part2](https://www.coursera.org/learn/genetics-evolution/lecture/OCKVK/what-is-evolution-g) | Lab safety | Module 2 & 3 (skip Guest interview from module 2)|
 |  | 4 | [Python for Biostatistics 1](https://www.coursera.org/learn/fundamental-skills-in-bioinformatics/home/module/3),[2](https://www.coursera.org/learn/introduction-python-scientific-computing/home/module/1) | Quiz | Module 3 (starting from Python primitive values and data structure) |
 | **2** | 1 | [Getting Started with Biopython part1](https://drive.google.com/file/d/1JT8mmurmd0GT3pbg4vy7UNxRZb5Po_-A/view?usp=sharing) |  |  |
