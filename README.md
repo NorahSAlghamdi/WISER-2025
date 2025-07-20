@@ -20,11 +20,11 @@ As an intern, you will gain hands-on experience with bioinformatics tools, analy
 |  | 3 | [Genome-DNA level]() |  |  |
 |  | 4 | [Alignment and GWAS]() | Lab work |  |
 | **3** | 1 | [Proteome-Amino acid level](https://www.coursera.org/learn/fundamental-skills-in-bioinformatics/home/module/4) | Quiz | Module 4 (Case study: Single cell RNA in python) |
-|  | 2 | [](https://colab.research.google.com/drive/1CBVpgmWd6lKitfxU4F2EJWENtxNOYIWL?usp=sharing) |  |  |
+|  | 2 | [Transcriptomic](https://colab.research.google.com/drive/1CBVpgmWd6lKitfxU4F2EJWENtxNOYIWL?usp=sharing) |  |  |
 |  | 3 | [Transcriptomic](https://drive.google.com/file/d/1z27F1s20YBj4XhHbKxDXQa56Pevieg3J/view?usp=drive_link) |  |  |
-|  | 4 | [Transcriptomic]() | Lab work |  |
+|  | 4 | [Covid_19 project]() | Lab work |  |
 | **4** | 1 | [Covid-19 project]() |  |  |
-|  | 2 | [Covid-19 project]() | Lab work |  |
-|  | 3 | [Covid-19 project]() |  |  |
-|  | 4 | [Covid-19 project]() |  |  |
+|  | 2 | [Poster preparation]() | Lab work |  |
+|  | 3 | [Poster preparation]() |  |  |
+|  | 4 | [Poster day]() |  |  |
 
