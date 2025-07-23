@@ -12,7 +12,7 @@ As an intern, you will gain hands-on experience with bioinformatics tools, analy
 | Week | Day | Content | Activity | Notes |
 | :---: | :---: | :--- | :--- | :--- |
 | **1** | 1 | Orientation + Set up the programs |  |  |
-|  | 2 | [Theoretical part1 1](https://www.youtube.com/watch?v=5MQdXjRPHmQ), [2](https://www.youtube.com/watch?v=zwibgNGe4aY),[3](https://www.youtube.com/watch?v=IePMXxQ-KWY), [4](https://www.youtube.com/watch?v=FNynz6Q12Bw),[5](https://www.youtube.com/watch?v=K1xnYFCZ9Yg), [6](https://www.youtube.com/watch?v=6tw_JVz_IEc) | [Quiz]() & ppt |  |
+|  | 2 | [Theoretical part1 1](https://www.youtube.com/watch?v=5MQdXjRPHmQ), [2](https://www.youtube.com/watch?v=zwibgNGe4aY),[3](https://www.youtube.com/watch?v=IePMXxQ-KWY), [4](https://www.youtube.com/watch?v=FNynz6Q12Bw),[5](https://www.youtube.com/watch?v=K1xnYFCZ9Yg), [6](https://www.youtube.com/watch?v=6tw_JVz_IEc) | [Quiz]() & Lab safty & Mouse prefusion |  |
 |  | 3 | [Theoretical part2](https://www.coursera.org/learn/genetics-evolution/lecture/OCKVK/what-is-evolution-g) | ppt & review the quiz | Module 2 & 3 & 5 (skip Guest interview from module 2, and please do the quiz of Module 3 & 5)|
 |  | 4 | [Python for Biostatistics 1](https://www.coursera.org/learn/introduction-python-scientific-computing/home/module/1) | Practice with mentor | Module 1(bython basics and Working with data in python), Module 2(Control flow and Functions and their behavior), Module 3(Working with arrays and Visulazation and plotting)  |
 | **2** | 1 | [Getting Started with Biopython part1](https://drive.google.com/file/d/1z27F1s20YBj4XhHbKxDXQa56Pevieg3J/view?usp=sharing), [2](https://drive.google.com/file/d/1Sn-u3DTfi_prjXp8fxKGiPPMZsx0okof/view?usp=sharing) |  |  |
