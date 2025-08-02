@@ -20,7 +20,7 @@ As an intern, you will gain hands-on experience with bioinformatics tools, analy
 |  | 3 | [Genome-DNA level]() |  |  |
 |  | 4 | [Alignment and GWAS]() | Lab work |  |
 | **3** | 1 | [Recap]() |  |  |
-|  | 2 | [Transcriptomic](https://www.coursera.org/learn/fundamental-skills-in-bioinformatics/home/module/4),[Slides](https://drive.google.com/file/d/1CMBdAAJ1kucHBEdegt3BZd7NCu9bLgnO/view?usp=sharing) |  |  |
+|  | 2 | [Transcriptomic](https://www.coursera.org/learn/fundamental-skills-in-bioinformatics/home/module/4),[Slides](https://drive.google.com/file/d/1CMBdAAJ1kucHBEdegt3BZd7NCu9bLgnO/view?usp=sharing) | [Explore the scRNAdata](https://drive.google.com/file/d/1f20tlrhXemoak0a3SInA7hXO0rCf2OFK/view?usp=sharing) |  |
 |  | 3 | [Transcriptomic](https://drive.google.com/file/d/1sw5Knh8dk5BVVpIDnj_VWVKaQu8DbC-z/view?usp=sharing) |  |  |
 |  | 4 | [Explore data (project)]() | Lab work |  |
 | **4** | 1 | [Analyze data (project)]() |  |  |
