@@ -21,7 +21,7 @@ As an intern, you will gain hands-on experience with bioinformatics tools, analy
 |  | 4 | [Alignment and GWAS]() | Lab work |  |
 | **3** | 1 | [Recap]() |  |  |
 |  | 2 | [Transcriptomic](https://support.parsebiosciences.com/hc/en-us/articles/360052794312-Scanpy-Tutorial-65k-PBMCs),[Slides](https://drive.google.com/file/d/1CMBdAAJ1kucHBEdegt3BZd7NCu9bLgnO/view?usp=sharing), [Slide2](https://docs.google.com/presentation/d/1QoR7yWVhWUaZlY2Guw_w9S5b5xlkv03h/edit?usp=sharing&ouid=116081952757538862361&rtpof=true&sd=true) | [Explore the scRNAdata](https://drive.google.com/file/d/1f20tlrhXemoak0a3SInA7hXO0rCf2OFK/view?usp=sharing) |  | 
-|  | 3 | [Transcriptomic](https://drive.google.com/file/d/1sw5Knh8dk5BVVpIDnj_VWVKaQu8DbC-z/view?usp=sharing) |  |  |
+|  | 3 | [Transcriptomic](https://drive.google.com/file/d/1sw5Knh8dk5BVVpIDnj_VWVKaQu8DbC-z/view?usp=sharing), [Practice](https://drive.google.com/file/d/1PVEBIhyT2LXLjqYr111yXL6Ua2DfZ4Ub/view?usp=sharing) |  |  |
 |  | 4 | [Explore data (project)]() | Lab work |  |
 | **4** | 1 | [Analyze data (project)]() |  |  |
 |  | 2 | [Poster preparation]() | Lab work |  |
